@@ -9,9 +9,7 @@ import android.widget.TextView;
 import android.widget.Toast;
 
 import java.util.List;
-/**
-  version 1.1
-**/
+
 public class FruitAdapter extends RecyclerView.Adapter<FruitAdapter.ViewHolder>{
 
     private List<Fruit> mFruitList;
